@@ -18,6 +18,9 @@ public class Solution {
         return -1;
     }
 
+    //Time Complexity is O(N)
+    //Space Complexity is O(1)
+
     public static void main(String[] args) {
         Solution solution = new Solution();
         int[] arr = {10, 20, 30, 40, 50};
